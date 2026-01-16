@@ -1,0 +1,19 @@
+# Site settings
+title: Ryan O'Connell
+description: ""
+author: ""
+
+#theme: minima
+remote_theme: jekyll/minima
+
+
+plugins:
+  - jekyll-seo-tag
+
+
+minima:
+  nav_pages:
+    - platforms/index.md
+    - research/index.md
+    - gallery.md
+    - resume.md
