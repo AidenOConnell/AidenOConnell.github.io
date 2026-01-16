@@ -25,22 +25,22 @@ title: Aiden O'Connell
 
 
     <a href="/platforms" style="text-decoration: none;">
-      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
+      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 18px;">
         Tanzania Field Research
       </div>
     </a>
     
 
     <a href="/research" style="text-decoration: none;">
-      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
+      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 18px;">
         Interractive Conflict Map
       </div>
     </a>
 
 
     <a href="/resume" style="text-decoration: none;">
-      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
-        📃 Resume
+      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 18px;">
+        Resume
       </div>
     </a>
 
