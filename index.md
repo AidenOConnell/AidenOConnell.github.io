@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ryan O'Connell
+title: Aiden O'Connell
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -17,7 +17,7 @@ title: Ryan O'Connell
 
   <!-- Headshot -->
   <div style="flex: 0 0 auto;">
-    <img src="/assets/images/headshot_photoshopped.png" alt="Ryan O'Connell" style="width: 500px; height: auto; border-radius: 12px;" />
+    <img src="/assets/images/headshot_photoshopped.png" alt="Aiden O'Connell" style="width: 500px; height: auto; border-radius: 12px;" />
   </div>
 
   <!-- Button Column -->
@@ -26,21 +26,14 @@ title: Ryan O'Connell
 
     <a href="/platforms" style="text-decoration: none;">
       <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
-        🛠️ Analytics Platforms
+        Field Research in Tanzania
       </div>
     </a>
     
 
     <a href="/research" style="text-decoration: none;">
       <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
-        📚 Academic Research
-      </div>
-    </a>
-    
-
-    <a href="/gallery" style="text-decoration: none;">
-      <div style="background-color: #1F4E79; color: white; padding: 20px 24px; border-radius: 8px; font-weight: bold; text-align: center; width: 220px; font-size: 20px;">
-        🖼️ Gallery
+        Interractive Conflict Map
       </div>
     </a>
 
